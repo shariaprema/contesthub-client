@@ -1,0 +1,523 @@
+[
+  {
+    "id": 1,
+    "contest_name": "Algorithms Coding Challenge",
+    "contest_type": "Coding",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/WsNvL5h/Algorithms-Coding-Challenge.jpg",
+    "attempted_count": 900,
+    "short_description": "Dive into the realm of algorithms in this Coding Challenge. Test your problem-solving skills and algorithmic thinking. Join 900 participants in a coding journey where precision and efficiency matter. Explore a world of complexity and elegance as you tackle algorithmic puzzles. The unique coding image sets the tone for a contest that celebrates the art of algorithms. Craft solutions, optimize code, and push the boundaries of computational thinking. Are you ready to unravel the secrets of algorithms? Join us in this coding odyssey and compete for a chance to win $500. The deadline is approaching, so don't miss out!",
+    "contest_winner_name": "Alice Johnson",
+    "inspirational_message": "Embrace the spirit of competition and let your passion ignite. Participate in the contest and make your dreams come true!",
+    "contest_prize": 500,
+    "winner_image": "https://i.ibb.co/wNxcL32/1-change1.jpg",
+    "deadline_counter": "2023-12-10T23:59:59",
+    "contest_price": 10,
+    "task_submission": "Submit your Algorithms solutions through the contest platform by the deadline. Ensure your code is efficient, and provide clear explanations for your solutions."
+
+     
+  },
+  {
+    "id": 2,
+    "contest_name": "JavaScript Coding Showdown",
+    "contest_type": "Coding",
+    "contest_category": "Popular",
+    "image": "https://i.ibb.co/0crPB2h/Java-Script-Coding-Showdown.jpg",
+    "attempted_count": 1700,
+    "short_description": "JavaScript enthusiasts, it's time for a Coding Showdown! Join 1200 participants in showcasing your JavaScript skills. Craft elegant solutions and push the boundaries of what can be achieved with this dynamic language. Whether you're into front-end magic or back-end wizardry, this contest welcomes all JavaScript aficionados. The unique coding image beckons creatives to join the competition and vie for a chance to win $750. Don't miss the opportunity to prove your JavaScript prowess. The deadline is approaching, so gear up for the showdown!",
+    "contest_winner_name": "Bob Smith",
+    "inspirational_message": "Embrace the power of creativity and embark on a journey of innovation. Join the contest and let your imagination soar!",
+    "contest_prize": "1650",
+    "winner_image": "https://i.ibb.co/vHzjpMt/albert-dera-ILip77-Sbm-OE-unsplash.jpg",
+    "deadline_counter": "2023-12-20T18:00:00",
+    "contest_price": 15,
+    "task_submission": "Submit your JavaScript code through the contest platform by the deadline. Showcase creativity, efficiency, and innovation in your solutions."
+  },
+  {
+    "id": 3,
+    "contest_name": "Python Coding Extravaganza",
+    "contest_type": "Coding",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/XZg6m1t/Python-Coding-Extravaganza.jpg",
+    "attempted_count": 800,
+    "short_description": "Unleash the power of Python in this Coding Extravaganza. Join 800 participants in solving challenges and creating Pythonic solutions. From scripting to automation, let your Python prowess shine. The unique coding image sparks inspiration for participants, challenging them to redefine what's possible with Python. Compete for a chance to win $600 and elevate your Python skills to new heights. The deadline is approaching, so don't miss the opportunity to be part of this Python coding journey!",
+    "contest_winner_name": "Charlie Brown",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": 600,
+    "winner_image": "https://i.ibb.co/c18NF76/alexander-hipp-i-EEBWg-Y-6l-A-unsplash.jpg",
+    "deadline_counter": "2023-12-15T23:59:59",
+    "contest_price": 10,
+    "task_submission": "Submit your Python solutions through the contest platform by the deadline. Ensure your code is efficient, and provide clear explanations for your solutions."
+
+  },
+  {
+    "id": 4,
+    "contest_name": "Node.js Coding Marathon",
+    "contest_type": "Coding",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/zP8pwrv/Node-js-Coding-Marathon.jpg",
+    "attempted_count": 673,
+    "short_description": "Embark on a Node.js Coding Marathon! Join 600 participants in a journey through asynchronous JavaScript. Build scalable and efficient applications using the power of Node.js. The contest challenges you to explore the world of server-side scripting and real-time applications. Compete for a chance to win $800 and showcase your Node.js expertise. The deadline is approaching, so gear up for this coding marathon!",
+    "contest_winner_name": "David Miller",
+    "inspirational_message": "Embrace the power of creativity and embark on a journey of innovation. Join the contest and let your imagination soar!",
+    "contest_prize": 800,
+    "winner_image": "https://i.ibb.co/3NzCF4D/behnam-samipour-Idh8-Uw-Of-Gko-unsplash.jpg",
+    "deadline_counter": "2023-12-25T12:00:00",
+    "contest_price": 15,
+    "task_submission": "Submit your Node.js code through the contest platform by the deadline. Showcase creativity, efficiency, and innovation in your solutions."
+  },
+  {
+    "id": 5,
+    "contest_name": "Ruby Coding Showcase",
+    "contest_type": "Coding",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/DWKSKsm/Ruby-Coding-Showcase.jpg",
+    "attempted_count": 1020,
+    "short_description": "Showcase your Ruby skills in this Coding Challenge. Join 1000 participants in crafting elegant and expressive code. From web development to scripting, let the beauty of Ruby shine. The unique coding image sparks inspiration for Ruby enthusiasts, challenging them to create innovative solutions. Compete for a chance to win $700 and be recognized for your Ruby coding prowess. The deadline is approaching, so don't miss the opportunity to be part of this Ruby coding showcase!",
+    "contest_winner_name": "Eva Davis",
+    "inspirational_message": "Embrace the spirit of competition and let your passion ignite. Participate in the contest and make your dreams come true!",
+    "contest_prize": 700,
+    "winner_image": "https://i.ibb.co/8zFyg9M/elizeu-dias-2-EGNqazb-AMk-unsplash-1.jpg",
+    "deadline_counter": "2023-12-18T18:00:00",
+    "contest_price": 20,
+    "task_submission": "Submit your Ruby code through the contest platform by the deadline. Showcase creativity, efficiency, and innovation in your solutions."
+  },
+  {
+    "id": 6,
+    "contest_name": "C++ Coding Battle",
+    "contest_type": "Coding",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/VwrJ08P/C-Coding-Battle.jpg",
+    "attempted_count": 902,
+    "short_description": "Gear up for a C++ Coding Battle! Join 1500 participants in demonstrating your C++ prowess. From high-performance applications to game development, conquer challenges with the power of C++. The contest challenges you to showcase your mastery of object-oriented programming and efficiency in algorithmic design. Compete for a chance to win $1000 and be crowned the C++ Coding Champion. The deadline is approaching, so prepare for this epic coding battle!",
+    "contest_winner_name": "Frank Taylor",
+    "inspirational_message": "Embrace the power of creativity and embark on a journey of innovation. Join the contest and let your imagination soar!",
+    "contest_prize": 1000,
+    "winner_image": "https://i.ibb.co/8zFyg9M/elizeu-dias-2-EGNqazb-AMk-unsplash-1.jpg",
+    "deadline_counter": "2023-12-31T23:59:59",
+    "contest_price": 16,
+    "task_submission": "Submit your C++ code through the contest platform by the deadline. Showcase creativity, efficiency, and innovation in your solutions."
+  },
+   
+  {
+    "id": 7,
+    "contest_name": "LensCrafted Visions Contest",
+    "contest_type": "Photography",
+    "contest_category": "Popular",
+    "image": "https://i.ibb.co/YZ5qTPb/Lens-Crafted-Visions-Contest.jpg",
+    "attempted_count": 1941,
+    "short_description": "Unleash your creativity in the LensCrafted Visions Contest. This photography challenge invites you to explore the art of visual storytelling through your lens. Join 1200 participants in capturing unique perspectives, moments, and emotions. The captivating contest image sets the tone for an exploration of visual narratives. Craft images that tell a story, evoke emotions, and leave a lasting impression. Compete for a chance to win $1000 and showcase your lenscrafted vision to the world. The deadline is approaching, so seize the opportunity to be part of this visual journey!",
+    "contest_winner_name": "Grace Turner",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": "$1800",
+    "winner_image": "https://i.ibb.co/Cz0XfDz/ilona-purdes-tsb-EHLN24-UA-unsplash.jpg",
+    "deadline_counter": "2023-12-15T23:59:59",
+    "contest_price": 20,
+    "task_submission": "Submit your captivating images through the contest platform by the deadline. Ensure your photos convey a compelling visual narrative."
+    
+  },
+  {
+    "id": 8,
+    "contest_name": "Capture the Moment Challenge",
+    "contest_type": "Photography",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/cXS1TbY/Capture-the-Moment-Challenge.jpg",
+    "attempted_count": 855,
+    "short_description": "Seize the moment in the Capture the Moment Challenge. This photography contest celebrates the beauty of spontaneous and fleeting moments. Join 800 participants in freezing time through your lens. The captivating contest image beckons creatives to showcase their ability to capture the essence of a moment. Craft images that tell a powerful story in a single frame. Compete for a chance to win $800 and immortalize your ability to capture the perfect moment. The deadline is approaching, so get ready to freeze time with your lens!",
+    "contest_winner_name": "Daniel Harper",
+    "inspirational_message": "Dare to dream beyond the limits and transform your aspirations into tangible achievements. Participate now and aim for victory!",
+    "contest_prize": 800,
+    "winner_image": "https://i.ibb.co/YNxgbz8/imansyah-muhamad-putera-n4-Kew-LKFOZw-unsplash.jpg",
+    "deadline_counter": "2023-12-20T18:00:00",
+    
+    "contest_price": 10,
+    "task_submission": "Submit your captivating images through the contest platform by the deadline. Ensure your photos convey a compelling visual narrative."
+  },
+  {
+    "id": 9,
+    "contest_name": "Shutter Symphony Showcase",
+    "contest_type": "Photography",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/z2DV1RZ/Shutter-Symphony-Showcase.jpg",
+    "attempted_count": 733,
+    "short_description": "Compose a visual symphony in the Shutter Symphony Showcase. This photography competition invites you to harmonize elements, colors, and emotions through your lens. Join 1000 participants in creating a visual masterpiece. The captivating contest image sparks inspiration for participants, challenging them to create a symphony of visual elements. Compete for a chance to win $1200 and let your visual composition take center stage. The deadline is approaching, so prepare to showcase your photographic symphony!",
+    "contest_winner_name": "Olivia Martinez",
+    "inspirational_message": "Embrace the power of creativity and embark on a journey of innovation. Join the contest and let your imagination soar!",
+    "contest_prize": 1200,
+    "winner_image": "https://i.ibb.co/KyhFpVT/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
+    "deadline_counter": "2023-12-25T12:00:00",
+    "contest_price": 17,
+    "task_submission": "Submit your symphony of images through the contest platform by the deadline. Ensure your composition harmonizes elements, colors, and emotions effectively."
+},
+  
+  {
+    "id": 10,
+    "contest_name": "Framed Elegance Competition",
+    "contest_type": "Photography",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/HYM6YWq/Framed-Elegance-Competition.jpg",
+    "attempted_count": 687,
+    "short_description": "Frame elegance through your lens in the Framed Elegance Competition. This photography contest challenges you to capture elegance in every frame. Join 687 participants in exploring the beauty of simplicity, grace, and sophistication. The captivating contest image sets the tone for a journey into the world of framed elegance. Craft images that showcase the refined beauty of your subjects. Compete for a chance to win $900 and let your elegant compositions shine. The deadline is approaching, so embrace the elegance with your lens!",
+    "contest_winner_name": "Liam Johnson",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": 900,
+    "winner_image": "https://i.ibb.co/gVzY59N/jimmy-fermin-bqe0-J0b26-RQ-unsplash.jpg",
+    "deadline_counter": "2023-12-18T18:00:00",
+    "contest_price": 15,
+    "task_submission": "Submit your elegant compositions through the contest platform by the deadline. Ensure each frame captures the refined beauty of your subjects."
+  },
+  {
+    "id": 11,
+    "contest_name": "Visual Poetry Photo Contest",
+    "contest_type": "Photography",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/26r6f6Q/Visual-Poetry-Photo-Contest.jpg",
+    "attempted_count": 1200,
+    "short_description": "Compose visual poetry in the Visual Poetry Photo Contest. This photography challenge invites you to use your lens to create poetic and evocative images. Join 1500 participants in crafting visual narratives that speak to the soul. The captivating contest image sparks inspiration for participants, challenging them to become poets with their lenses. Compete for a chance to win $1500 and let your visual poetry resonate with the world. The deadline is approaching, so let your lens become the pen of your visual poetry!",
+    "contest_winner_name": "Ava Turner",
+    "contest_prize": 1500,
+    "inspirational_message": "Embrace the power of creativity and embark on a journey of innovation. Join the contest and let your imagination soar!",
+    "winner_image": "https://i.ibb.co/vzb7RHP/leio-mclaren-L2d-Tmh-Qzx4-Q-unsplash.jpg",
+    "deadline_counter": "2023-12-31T23:59:59",
+    "contest_price": "20",
+    "task_submission": "Submit your poetic compositions through the contest platform by the deadline. Let your images speak volumes and resonate with the emotions of the audience."
+  },
+  {
+    "id": 12,
+    "contest_name": "Snapshot Splendor Series",
+    "contest_type": "Photography",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/5jRh9kB/Snapshot-Splendor-Series.jpg",
+    "attempted_count": 1100,
+    "short_description": "Capture the splendor of moments in the Snapshot Splendor Series. This photography series invites you to explore the beauty in everyday moments. Join 1100 participants in creating a visual narrative of splendor. The captivating contest image sets the tone for a celebration of life's simple joys. Craft images that capture the essence of splendor in a snapshot. Compete for a chance to win $1700 and showcase the splendor in your lens. The deadline is approaching, so embark on a journey to capture the splendor of life!",
+    "contest_winner_name": "Mia Rodriguez",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": 1700,
+    "winner_image": "https://i.ibb.co/b5ycZdD/matheus-ferrero-W7b3e-DUb-2-I-unsplash.jpg",
+    "deadline_counter": "2023-12-22T23:59:59",
+    "contest_price": 25,
+    "task_submission": "Submit your splendid snapshots through the contest platform by the deadline. Capture the beauty in everyday moments and let your images narrate stories of splendor."
+    
+  },
+  
+
+
+
+  {
+    "id": 13,
+    "contest_name": "Logo Design Challenge",
+    "contest_type": "Design",
+    "contest_category": "Popular",
+    "image": "https://i.ibb.co/X5qJDys/Logo-Design-Challenge.jpg",
+    "attempted_count": 1670,
+    "short_description": "Craft a brand identity in the Logo Design Challenge. This design competition invites you to create logos that leave a lasting impression. Join 1300 participants in shaping the visual identity of brands. The captivating contest image sets the tone for an exploration of creativity and brand storytelling. Design logos that are not just symbols but stories in themselves. Compete for a chance to win $800 and showcase your logo design prowess. The deadline is approaching, so dive into the world of visual branding!",
+    "contest_winner_name": "Sophia Lee",
+    "inspirational_message": "Embrace the power of creativity and embark on a journey of innovation. Join the contest and let your imagination soar!",
+    "contest_prize": 1700,
+    "winner_image": "https://i.ibb.co/F05pBGj/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+    "deadline_counter": "2023-12-12T23:59:59",
+    "contest_price": 20,
+    "task_submission": "Submit your unique logo designs through the contest platform by the deadline. Ensure your logos not only represent brands but tell compelling stories."
+  },
+  {
+    "id": 14,
+    "contest_name": "Business Card Design Showcase",
+    "contest_type": "Design",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/1dwNBBv/Business-Card-Design-contests.jpg",
+    "attempted_count": 950,
+    "short_description": "Make a lasting impression in the Business Card Design Showcase. This design contest challenges you to create business cards that stand out. Join 950 participants in crafting business cards that speak volumes. The captivating contest image beckons creatives to showcase their design flair in a small canvas. Design cards that are not just contact information but visual statements. Compete for a chance to win $600 and redefine the art of business card design. The deadline is approaching, so get ready to showcase your design on a small canvas!",
+    "contest_winner_name": "Ethan Wilson",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": 700,
+    "winner_image": "https://i.ibb.co/JWZCwFB/natali-hordiiuk-i-Vl-Lg-MB582w-unsplash.jpg",
+    "deadline_counter": "2023-12-18T18:00:00",
+    "contest_price": 8,
+    "task_submission": "Submit your innovative business card designs through the contest platform by the deadline. Ensure your designs make a strong visual statement."
+  },
+  {
+    "id": 15,
+    "contest_name": "Web Design Challenge",
+    "contest_type": "Design",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/zxfM31z/Web-Design-Challenge.jpg",
+    "attempted_count": 1100,
+    "short_description": "Shape the digital experience in the Web Design Challenge. This design contest invites you to create visually stunning and user-friendly websites. Join 1100 participants in the exploration of web design aesthetics and functionality. The captivating contest image sparks inspiration for participants, challenging them to redefine the online experience. Design websites that seamlessly blend form and function. Compete for a chance to win $1000 and be recognized for your contribution to the digital landscape. The deadline is approaching, so embark on a journey to redefine web design!",
+    "contest_winner_name": "Emma Clark",
+    "inspirational_message": "Unleash your hidden talents and let your creativity shine. Join the contest and embark on a path of self-discovery!",
+    "contest_prize": 1000,
+    "winner_image": "https://i.ibb.co/xhMYYBH/oliver-ragfelt-kh-V4f-Ty6-D8-unsplash.jpg",
+    "deadline_counter": "2023-12-22T23:59:59",
+    "contest_price": 25,
+    "task_submission": "Submit your visually stunning and user-friendly website designs through the contest platform by the deadline. Ensure your designs redefine the online experience."
+    
+  },
+
+  {
+    "id": 16,
+    "contest_name": "Graphic Design Extravaganza",
+    "contest_type": "Design",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/0VF0SY4/Graphic-Design-Extravaganza.jpg",
+    "attempted_count": 850,
+    "short_description": "Unleash your creativity in the Graphic Design Extravaganza. This design competition challenges you to create visually stunning graphics. Join 850 participants in crafting designs that captivate and inspire. The captivating contest image sets the tone for an exploration of graphic design aesthetics. Design graphics that are not just visuals but narratives in themselves. Compete for a chance to win $1200 and let your graphic designs speak volumes. The deadline is approaching, so embrace the world of graphic design!",
+    "contest_winner_name": "Noah Taylor",
+    "inspirational_message": "Embrace the spirit of competition and let your passion ignite. Participate in the contest and make your dreams come true!",
+    "contest_prize": 1200,
+    "winner_image": "https://i.ibb.co/tCdkFF2/Png-Item-2640465.png",
+    "deadline_counter": "2023-12-15T23:59:59",
+    "contest_price": 22,
+    "task_submission": "Submit your captivating graphic designs through the contest platform by the deadline. Ensure your designs not only visually captivate but also tell compelling narratives."
+
+  },
+  {
+    "id": 17,
+    "contest_name": "T-shirt Design Showdown",
+    "contest_type": "Design",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/h9gMXxs/t-shirt-design.jpg",
+    "attempted_count": 713,
+    "short_description": "Wear your creativity in the T-shirt Design Showdown. This design contest challenges you to create T-shirt designs that make a statement. Join 1200 participants in crafting wearable art that resonates. The captivating contest image sparks inspiration for participants, challenging them to redefine T-shirt design aesthetics. Design shirts that are not just clothing but expressions of individuality. Compete for a chance to win $900 and see your designs come to life. The deadline is approaching, so gear up for the T-shirt design showdown!",
+    "contest_winner_name": "Avery Martinez",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": 900,
+    "winner_image": "https://i.ibb.co/qmYfvt9/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg",
+    "deadline_counter": "2023-12-25T12:00:00",
+    "contest_price": 20,
+    "task_submission": "Submit your expressive T-shirt designs through the contest platform by the deadline. Ensure your designs go beyond clothing and become statements of individuality."
+
+  },
+
+
+
+  {
+    "id": 18,
+    "contest_name": "Fiction Contest",
+    "contest_type": "Writing",
+    "contest_category": "Popular",
+    "image": "https://i.ibb.co/RC9MBD3/Fiction-Contest.jpg",
+    "attempted_count": 1800,
+    "short_description": "Dive into the world of imagination in the Fiction Contest. This writing competition invites you to craft fictional narratives that captivate and transport readers. Join 1400 participants in the exploration of characters, plots, and storytelling. The captivating contest image sets the tone for an odyssey into the realms of creativity and fiction. Write stories that linger in the minds of readers. Compete for a chance to win $1000 and see your fictional worlds come to life. The deadline is approaching, so embark on a journey to weave tales of wonder!",
+    "contest_winner_name": "Oliver Turner",
+    "inspirational_message": "Dare to dream beyond the limits and transform your aspirations into tangible achievements. Participate now and aim for victory!",
+    "contest_prize": 1500,
+    "winner_image": "https://i.ibb.co/c18NF76/alexander-hipp-i-EEBWg-Y-6l-A-unsplash.jpg",
+    "deadline_counter": "2023-12-12T23:59:59",
+    "contest_price": 25,
+    "task_submission": "Submit your captivating fictional narratives through the contest platform by the deadline. Ensure your stories transport readers to imaginative worlds."
+  },
+  {
+    "id": 19,
+    "contest_name": "Poetry Contest",
+    "contest_type": "Writing",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/LZs5RMV/Poetry-Contest.jpg",
+    "attempted_count": 984,
+    "short_description": "Compose verses that resonate in the Poetry Contest. This writing competition celebrates the art of poetic expression. Join 980 participants in crafting verses that evoke emotions and paint vivid imagery. The captivating contest image beckons poets to explore the beauty of language and rhythm. Write poems that are not just words but symphonies of emotions. Compete for a chance to win $800 and be recognized for your poetic mastery. The deadline is approaching, so let your words dance in the Poetry Contest!",
+    "contest_winner_name": "Aria Garcia",
+    "inspirational_message": "Embrace the power of creativity and embark on a journey of innovation. Join the contest and let your imagination soar!",
+    "contest_prize": 800,
+    "winner_image": "https://i.ibb.co/vkqL8NL/wellington-ferreira-72-TE8c-WKXRY-unsplash.jpg",
+    "deadline_counter": "2023-12-18T18:00:00",
+    "contest_price": 20,
+    "task_submission": "Submit your emotionally resonant verses through the contest platform by the deadline. Ensure your poems become symphonies of emotions."
+
+  },
+  {
+    "id": 20,
+    "contest_name": "Non-Fiction Contest",
+    "contest_type": "Writing",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/ZNCLRvt/Non-Fiction-Contest.jpg",
+    "attempted_count": 1150,
+    "short_description": "Tell real-life stories in the Non-Fiction Contest. This writing competition challenges you to craft compelling narratives based on truth. Join 1150 participants in the exploration of real experiences, insights, and perspectives. The captivating contest image sparks inspiration for participants, challenging them to delve into the art of non-fiction. Write narratives that leave a lasting impact on readers. Compete for a chance to win $1200 and see your true stories shine. The deadline is approaching, so share your non-fiction tales with the world!",
+    "contest_winner_name": "Lila Adams",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": 1200,
+    "winner_image": "https://i.ibb.co/HBsZ14t/Yang.jpg",
+    "deadline_counter": "2023-12-22T23:59:59",
+    "contest_price": 22,
+    "task_submission": "Submit your impactful non-fiction narratives through the contest platform by the deadline. Ensure your stories resonate with readers."
+
+  },
+  {
+    "id": 21,
+    "contest_name": "Historical Fiction Competitions",
+    "contest_type": "Writing",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/C17JDrH/Historical-Fiction-Competitions.jpg",
+    "attempted_count": 750,
+    "short_description": "Step into the past in the Historical Fiction Competitions. This writing contest invites you to craft narratives set in historical eras. Join 750 participants in the exploration of bygone times, characters, and events. The captivating contest image sets the tone for an odyssey into historical storytelling. Write fiction that brings history to life. Compete for a chance to win $1000 and see your historical tales unfold. The deadline is approaching, so transport readers to a different time with your pen!",
+    "contest_winner_name": "Henry Carter",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": 1000,
+    "winner_image": "https://i.ibb.co/xhMYYBH/oliver-ragfelt-kh-V4f-Ty6-D8-unsplash.jpg",
+    "deadline_counter": "2023-12-15T23:59:59",
+    "contest_price": 18,
+    "task_submission": "Submit your historical narratives through the contest platform by the deadline. Ensure your stories vividly depict the bygone eras."
+
+  },
+  {
+    "id": 22,
+    "contest_name": "Science Fiction and Fantasy Contests",
+    "contest_type": "Writing",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/wRZrWCk/Science-Fiction-and-Fantasy-Contests.jpg",
+    "attempted_count": 1100,
+    "short_description": "Explore otherworldly realms in the Science Fiction and Fantasy Contests. This writing competition invites you to craft tales of imagination, science, and magic. Join 1100 participants in the creation of futuristic landscapes, mythical creatures, and epic adventures. The captivating contest image sparks inspiration for participants, challenging them to push the boundaries of reality. Write stories that transcend the ordinary. Compete for a chance to win $1500 and see your sci-fi and fantasy worlds come to life. The deadline is approaching, so embark on a journey into the extraordinary!",
+    "contest_winner_name": "Mason Scott",
+    "inspirational_message": "Unleash your hidden talents and let your creativity shine. Join the contest and embark on a path of self-discovery!",
+    "contest_prize": 1500,
+    "winner_image": "https://i.ibb.co/3NzCF4D/behnam-samipour-Idh8-Uw-Of-Gko-unsplash.jpg",
+    "deadline_counter": "2023-12-31T23:59:59",
+    "contest_price": 15,
+    "task_submission": "Submit your imaginative sci-fi and fantasy tales through the contest platform by the deadline. Ensure your stories transport readers to otherworldly dimensions."
+
+  },
+
+  {
+    "id": 23,
+    "contest_name": "Travel Writing Challenges",
+    "contest_type": "Writing",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/PYzG6tN/Travel-Writing-Challenges.jpg",
+    "attempted_count": 968,
+    "short_description": "Embark on a literary journey in the Travel Writing Challenges. This writing contest challenges you to share your adventures and experiences from around the world. Join 900 participants in the exploration of diverse cultures, landscapes, and moments. The captivating contest image sets the tone for an odyssey into the art of travel writing. Write stories that transport readers to different corners of the globe. Compete for a chance to win $1200 and see your travel tales inspire wanderlust. The deadline is approaching, so share the magic of your journeys with the world!",
+    "contest_winner_name": "Elena Martinez",
+    "inspirational_message": "Embrace the power of creativity and embark on a journey of innovation. Join the contest and let your imagination soar!",
+    "contest_prize": 1200,
+    "winner_image": "https://i.ibb.co/jb3hm1D/vince-fleming-j3lf-Jn6deo-unsplash.jpg",
+    "deadline_counter": "2023-12-20T18:00:00",
+    "contest_price": 23,
+    "task_submission": "Submit your captivating travel narratives through the contest platform by the deadline. Ensure your stories transport readers to the heart of diverse cultures and landscapes."
+
+  },
+  {
+    "id": 24,
+    "contest_name": "Poetry and Magazine Writing Contest",
+    "contest_type": "Writing",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/NxYB8NP/Poetry-and-Magazine-Writing-Contest.jpg",
+    "attempted_count": 1300,
+    "short_description": "Merge poetry and storytelling in the Poetry and Magazine Writing Contest. This writing competition invites you to create poetic narratives that captivate readers. Join 1600 participants in the exploration of the intersection between poetry and storytelling. The captivating contest image sparks inspiration for participants, challenging them to craft literary masterpieces. Write stories that resonate with emotion and imagination. Compete for a chance to win $1800 and see your poetry and prose come together. The deadline is approaching, so let your words create a symphony of emotions!",
+    "contest_winner_name": "Liam Turner",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": 1800,
+    "winner_image": "https://i.ibb.co/vHzjpMt/albert-dera-ILip77-Sbm-OE-unsplash.jpg",
+    "deadline_counter": "2023-12-25T12:00:00",
+    "contest_price": 23,
+    "task_submission": "Submit your Poetry and Magazine Writing Contest platform by the deadline. Ensure your stories transport readers to the heart of diverse cultures and landscapes."
+
+  },
+
+ 
+
+  {
+    "id": 25,
+    "contest_name": "Battle Royale Showdown",
+    "contest_type": "Gaming",
+    "contest_category": "Popular",
+    "image": "https://i.ibb.co/fGfBqpS/Battle-Royale-Showdown.png",
+    "attempted_count": 2000,
+    "short_description": "Enter the arena in the Battle Royale Showdown. This gaming contest invites you to a high-stakes battle where survival is the ultimate goal. Join 1600 participants in an adrenaline-fueled competition of skill and strategy. The captivating contest image sets the tone for a gaming experience where every decision matters. Battle for supremacy, outlast opponents, and emerge victorious in the ultimate showdown. Compete for a chance to win $2000 and claim the title of the last one standing. The deadline is approaching, so gear up for the Battle Royale Showdown!",
+    "contest_winner_name": "Alex Turner",
+    "inspirational_message": "Embrace the power of creativity and embark on a journey of innovation. Join the contest and let your imagination soar!",
+    "contest_prize": 2000,
+    "winner_image": "https://i.ibb.co/jb3hm1D/vince-fleming-j3lf-Jn6deo-unsplash.jpg",
+    "deadline_counter": "2023-12-12T23:59:59",
+    "contest_price": 30,
+    "task_submission": "Submit your best gaming strategies and survival skills through the contest platform by the deadline. Ensure your decisions and actions lead to victory in the Battle Royale Showdown."
+
+  },
+  {
+    "id": 26,
+    "contest_name": "Speedrun Challenge",
+    "contest_type": "Gaming",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/0DkmzPg/Speedrun-Challenge.jpg",
+    "attempted_count": 1200,
+    "short_description": "Race against the clock in the Speedrun Challenge. This gaming contest challenges you to complete games in record time. Join 1200 participants in an intense competition of skill, precision, and speed. The captivating contest image beckons gamers to showcase their mastery of game mechanics. Speed through levels, execute flawless maneuvers, and set speedrunning records. Compete for a chance to win $1500 and be recognized as the fastest gamer. The deadline is approaching, so get ready to break records in the Speedrun Challenge!",
+    "contest_winner_name": "Zara Patel",
+    "inspirational_message": "Unleash your hidden talents and let your creativity shine. Join the contest and embark on a path of self-discovery!",
+    "contest_prize": 1500,
+    "winner_image": "https://i.ibb.co/JWZCwFB/natali-hordiiuk-i-Vl-Lg-MB582w-unsplash.jpg",
+    "deadline_counter": "2023-12-18T18:00:00",
+    "contest_price": 20,
+    "task_submission": "Submit your fastest speedrun videos through the contest platform by the deadline. Showcase your precision and speed in completing games in record time in the Speedrun Challenge."
+
+  },
+  {
+    "id": 27,
+    "contest_name": "E-Sports Tournament",
+    "contest_type": "Gaming",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/ZmyLG8M/E-Sports-Tournament.jpg",
+    "attempted_count": 103,
+    "short_description": "Step into the arena of professional gaming in the E-Sports Tournament. This gaming competition invites teams and solo players to showcase their skills in a variety of popular e-sports titles. Join 2000 participants in the ultimate test of teamwork, strategy, and precision. The captivating contest image sets the tone for an e-sports extravaganza where champions are born. Compete for a chance to win $2500 and be crowned as the top e-sports player or team. The deadline is approaching, so assemble your team and compete in the E-Sports Tournament!",
+    "contest_winner_name": "Team Velocity",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": 2500,
+    "winner_image": "https://i.ibb.co/KyhFpVT/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
+    "deadline_counter": "2023-12-22T23:59:59",
+    "contest_price": 25,
+    "task_submission": "Submit your best e-sports performances through the contest platform by the deadline. Showcase your skills, teamwork, and strategy in the E-Sports Tournament."
+
+  },
+  {
+    "id": 28,
+    "contest_name": "FPS (First Person Shooter) Clash",
+    "contest_type": "Gaming",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/LPfxpsc/FPS-First-Person-Shooter-Clash.jpg",
+    "attempted_count": 810,
+    "short_description": "Engage in intense firefights in the FPS (First Person Shooter) Clash. This gaming contest challenges you to showcase your skills in the fast-paced world of first-person shooters. Join 1800 participants in a battle where precision and reflexes are paramount. The captivating contest image sparks inspiration for gamers, urging them to aim for victory in dynamic shooter environments. Compete for a chance to win $1800 and be recognized as the top marksman. The deadline is approaching, so lock and load for the FPS Clash!",
+    "contest_winner_name": "Riley Carter",
+    "inspirational_message": "Unleash your hidden talents and let your creativity shine. Join the contest and embark on a path of self-discovery!",
+    "contest_prize": 1800,
+    "winner_image": "https://i.ibb.co/YNxgbz8/imansyah-muhamad-putera-n4-Kew-LKFOZw-unsplash.jpg",
+    "deadline_counter": "2023-12-15T23:59:59",
+    "contest_price": 22,
+    "task_submission": "Submit your most thrilling first-person shooter gameplay clips through the contest platform by the deadline. Showcase your precision and reflexes in the FPS Clash."
+
+  },
+  {
+    "id": 29,
+    "contest_name": "Simulator Challenge",
+    "contest_type": "Gaming",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/cD7Hndw/Simulator-Challenge.jpg",
+    "attempted_count": 999,
+    "short_description": "Immerse yourself in virtual worlds in the Simulator Challenge. This gaming contest invites you to explore the realms of simulation games. Join 1500 participants in a competition that tests your ability to manage, simulate, and conquer virtual environments. The captivating contest image sets the tone for an immersive gaming experience where strategy and decision-making are key. Compete for a chance to win $1200 and prove your mastery of simulator games. The deadline is approaching, so dive into the Simulator Challenge!",
+    "contest_winner_name": "Jordan Adams",
+    "inspirational_message": "Dare to dream beyond the limits and transform your aspirations into tangible achievements. Participate now and aim for victory!",
+    "contest_prize": 1200,
+    "winner_image": "https://i.ibb.co/xhMYYBH/oliver-ragfelt-kh-V4f-Ty6-D8-unsplash.jpg",
+    "deadline_counter": "2023-12-25T12:00:00",
+    "contest_price": 15,
+    "task_submission": "Submit your most strategic and captivating simulator gameplay videos through the contest platform by the deadline. Showcase your ability to manage and conquer virtual environments in the Simulator Challenge."
+
+  },
+  {
+    "id": 30,
+    "contest_name": "VR Gaming Showcase",
+    "contest_type": "Gaming",
+    "contest_category": "Regular",
+    "image": "https://i.ibb.co/6sLp26N/VR-Gaming-Showcase.jpg",
+    "attempted_count": 1300,
+    "short_description": "Experience the future of gaming in the VR Gaming Showcase. This gaming contest challenges you to enter the immersive world of virtual reality. Join 1300 participants in a showcase of VR gaming prowess, innovation, and creativity. The captivating contest image sparks inspiration for gamers, urging them to redefine gaming experiences. Compete for a chance to win $2000 and be recognized as a pioneer in VR gaming. The deadline is approaching, so put on your VR headset and join the VR Gaming Showcase!",
+    "contest_winner_name": "Mia Robinson",
+    "inspirational_message": "Nurture your dreams and let them blossom into reality. Participate in the contest and unleash your true potential!",
+    "contest_prize": 1120,
+    "winner_image": "https://i.ibb.co/Cz0XfDz/ilona-purdes-tsb-EHLN24-UA-unsplash.jpg",
+    "deadline_counter": "2023-12-31T23:59:59",
+    "contest_price": 16,
+    "task_submission": "Submit your most innovative and captivating VR gameplay videos through the contest platform by the deadline. Showcase your creativity and pioneering spirit in the VR Gaming Showcase."
+
+  }
+
+
+]
+
+
+
+
