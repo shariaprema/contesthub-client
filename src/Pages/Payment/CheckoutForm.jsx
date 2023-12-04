@@ -96,11 +96,10 @@ const CheckoutForm = () => {
             email: user.email,
             name:  user.displayName,
             transactionId: paymentIntent.id,
-            deadline_counter: deadline_counter,
-            contest_name: contest_name,
-            contest_type: contest_type,
-            image: image,
-            contest_prize: contest_prize,
+            contest_name: contest.contest_name,
+            // contest_type: contest_type,
+            // image: image,
+            // contest_prize: contest_prize,
             contest_price: totalPrice,
             data: new Date(), 
             cartId: cart.map(item=>item._id),
@@ -112,7 +111,7 @@ const CheckoutForm = () => {
         const res = await axiosSecure.post('/payments', payment)
         console.log('Payment Save', res.data);
           refetch();
-          if(res?.data?.paymentResult?.insertedId){
+          if(res?.data?.insertedId){
             Swal.fire({
               position: "top",
               icon: "success",
@@ -120,7 +119,7 @@ const CheckoutForm = () => {
               showConfirmButton: false,
               timer: 1500
             });
-            navigate ('/dashboard/cart')
+            // navigate ('/dashboard/myRegisteredContest')
 
           }
 

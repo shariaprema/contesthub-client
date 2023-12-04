@@ -24,8 +24,8 @@ console.log({isContestCreator});
                 <h2 className="text-5xl bg-white text-center mb-4 py-4 rounded-md ">Dashboard</h2>
 
                  {/* ADMIN PANEL */}
-            {/* {
-                isAdmin &&  */}
+            {
+                isAdmin && !isContestCreator && 
                  <> 
                 <h2 className="text-2xl font-bold mb-4  rounded-md bg-purple-400  border-y-2 pl-5"> Admin</h2>
 
@@ -48,14 +48,17 @@ console.log({isContestCreator});
                       
                </> 
 
-            {/* }   */}
+           }   
 
-                 {/* {
-                    isContestCreator && */}
-                  
-                  <> 
+                 
 
                   {/* Contest PANEL */}
+
+
+                  {
+                    isContestCreator && !isAdmin &&
+                  
+                  <> 
 
                    <h2 className="text-2xl  font-bold mb-1  rounded-md bg-purple-400  border-y-2 pl-5"> Contest Creator</h2>
 
@@ -85,17 +88,20 @@ console.log({isContestCreator});
 
                 </>
            
-                {/* } */}
+                 } 
 
                     
-           {/* {
-            !isAdmin && !isContestCreator && */}
-
-            
-            <>
+         
                     
 
             {/* USER PANEL */}
+
+
+            {
+            !isAdmin && !isContestCreator && 
+
+            
+            <>
 
            <h2 className="text-2xl font-bold mb-1  rounded-md bg-purple-400  border-y-2 pl-5">User</h2>
 
@@ -103,7 +109,7 @@ console.log({isContestCreator});
                    <NavLink to='/dashboard/cart'>
                    <TiShoppingCart className="w-5 h-5" />
                        My Cart
-                       {/* ({cart.length}) */}
+                       ({cart.length})
                    </NavLink>
                </li>
            <li>                     
@@ -133,7 +139,7 @@ console.log({isContestCreator});
 
             </>
 
-           {/* } */}
+            } 
 
                 
             <div className="divider"></div>

@@ -27,7 +27,6 @@ const AddContest = () => {
         }
     })
     if(res.data.success){
-        //Now send the menu item data to the server with image
         const contestItems={
             email: data.email,
             name: data.name,

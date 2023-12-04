@@ -17,6 +17,9 @@ import ManageUser from "../Pages/Dashboard/ManageUser/ManageUser";
 import ManageContest from "../Pages/Dashboard/ManageContest/ManageContest";
 import AddContest from "../Pages/Dashboard/AddContest/AddContest";
 import MyCreatedContest from "../Pages/Dashboard/MyCreatedContest/MyCreatedContest";
+import AdminRoute from "./AdminRoute";
+import ContestCreatorRoute from "./ContestCreatorRoute";
+import MyProfile from "../Pages/Dashboard/MyProfile/MyProfile";
 
       const router = createBrowserRouter([
         {
@@ -68,30 +71,40 @@ import MyCreatedContest from "../Pages/Dashboard/MyCreatedContest/MyCreatedConte
               element: <PrivateRoutes><MyRegisteredContest></MyRegisteredContest> </PrivateRoutes>
 
             },
+            {
+              path: "myProfile",
+              element: <PrivateRoutes> <MyProfile></MyProfile> </PrivateRoutes>
+
+            },
 
              //Admin Routes
 
              {
               path: "users",
-              element: <PrivateRoutes> <ManageUser></ManageUser> </PrivateRoutes>
+              element: <AdminRoute><ManageUser></ManageUser></AdminRoute> 
 
             },
 
              {
               path: "manageContest",
-              element: <PrivateRoutes> <ManageContest></ManageContest> </PrivateRoutes>
+              element: <AdminRoute><ManageContest></ManageContest></AdminRoute>  
 
             },
 
+
+
+
+
+
              {
               path: "addContest",
-              element: <PrivateRoutes> <AddContest></AddContest> </PrivateRoutes>
+              element: <ContestCreatorRoute><AddContest></AddContest> </ContestCreatorRoute> 
 
             },
 
              {
               path: "myCreatedContest",
-              element: <PrivateRoutes> <MyCreatedContest></MyCreatedContest> </PrivateRoutes>
+              element: <ContestCreatorRoute><MyCreatedContest></MyCreatedContest></ContestCreatorRoute>  
 
             },
 
