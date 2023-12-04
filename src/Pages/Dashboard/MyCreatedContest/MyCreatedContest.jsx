@@ -1,8 +1,16 @@
 import { Helmet } from 'react-helmet';
 import TitleSection from '../../../conponents/TitleSection/TitleSection';
+import { useLoaderData } from 'react-router-dom';
 
 
 const MyCreatedContest = () => {
+
+    const contest = useLoaderData()
+    console.log(contest);
+
+
+
+
 //   _id,contest_name,contest_type,contest_category,image,attempted_count,short_description,contest_winner_name,inspirational_message,contest_prize,winner_image,deadline_counter,
 //             task_submission,contest_price 
 
@@ -17,6 +25,7 @@ const MyCreatedContest = () => {
        heading={'My Created Contest'}
        >
        </TitleSection>
+
 
        {/* <div className="my-16 h-full min-h-screen">
 

@@ -29,13 +29,19 @@ const MyRegisteredContest = () => {
             heading={'My Registered Contest'}
             >
             </TitleSection>
+            
 
+            
         <div className="my-16 h-full min-h-screen">
 
         <div className="flex justify-center">
         <h2 className="text-3xl text-black p-2 rounded-md border-2 border-purple-900 font-bold  mb-5 justify-center inline-block items-center mx-auto text-center
         bg-purple-500">Total Users: {payments.length}</h2>
         </div>
+
+        <button className="btn px-10 btn-outline bg-purple-500 border-0 border-b-4
+          border-orange-500 text-white flex justify-center mx-auto ">Show My upcoming Contests </button>
+
 
         <div className="overflow-x-auto">
         <table className="table h-full w-full">

@@ -13,7 +13,7 @@ const Advertises = () => {
     
 
     useEffect(()=>{
-        fetch('http://localhost:5000/contests')
+        fetch('https://contest-hub-server-zeta.vercel.app/contests')
         .then(res=>res.json())
         .then(data=>setContestWinner(data))
     },[])

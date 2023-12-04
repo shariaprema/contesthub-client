@@ -19,7 +19,7 @@ const CheckoutForm = () => {
     const [clientSecret, setClientSecret] = useState('');
     const navigate = useNavigate()
     const [cart]= useCart()
-    console.log(clientSecret);
+    // console.log(clientSecret);
 
     const totalPrice = cart.reduce((total,item)=>total + item.contest_price, 0)
     console.log(totalPrice);
@@ -119,7 +119,7 @@ const CheckoutForm = () => {
               showConfirmButton: false,
               timer: 1500
             });
-            // navigate ('/dashboard/myRegisteredContest')
+            navigate ('/dashboard/myRegisteredContest')
 
           }
 

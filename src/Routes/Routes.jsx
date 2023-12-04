@@ -38,7 +38,7 @@ import MyProfile from "../Pages/Dashboard/MyProfile/MyProfile";
             {
               path: "/contestDetails/:id",
               element: <ContestDetails></ContestDetails>,
-              loader: ({params})=>fetch(`http://localhost:5000/contests/${params.id}`)
+              loader: ({params})=>fetch(`https://contest-hub-server-zeta.vercel.app/contests/${params.id}`)
             },
             {
               path: "login",
@@ -94,7 +94,7 @@ import MyProfile from "../Pages/Dashboard/MyProfile/MyProfile";
 
 
 
-
+          //Admin Routes
 
              {
               path: "addContest",
@@ -104,7 +104,7 @@ import MyProfile from "../Pages/Dashboard/MyProfile/MyProfile";
 
              {
               path: "myCreatedContest",
-              element: <ContestCreatorRoute><MyCreatedContest></MyCreatedContest></ContestCreatorRoute>  
+              element: <ContestCreatorRoute><MyCreatedContest></MyCreatedContest></ContestCreatorRoute>, 
 
             },
 
